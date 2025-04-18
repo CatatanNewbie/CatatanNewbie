@@ -1,6 +1,6 @@
 <!-- Profil Header Animasi Seperti Terminal -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF91&width=600&lines=Hi+There!+I'm+@CatatanNewbie;Bug+Hunter+%7C+Cyber+Security+Enthusiast;AI-Powered+Tool+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF91&width=600&lines=Hi+There!+I'm+@CatatanNewbie;Bug+Hunter+%7C+Cyber+Security+;AI-Powered" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -64,8 +64,8 @@
 ### 📫 Kontak
 
 - 🌐 GitHub: [github.com/CatatanNewbie](https://github.com/CatatanNewbie)
-- 💬 TikTok: [@security77](https://www.tiktok.com/@security77)
-- 📧 Email: *(opsional, kalau ingin ditampilkan)*
+- 💬 TikTok: [@security77](https://www.tiktok.com/@acces404)
+- 📧 Email: *(catatannewbie566@gmail.com)*
 
 ---
 
